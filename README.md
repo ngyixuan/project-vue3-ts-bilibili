@@ -4,8 +4,8 @@
 ```
 npm run dev
 ```
-## 示例图片：
-![image](https://github.com/ngyixuan/project-vue3-ts-bilibili/blob/main/sample/index.png)
-
 ## 前端技术栈
 Vue3+Vue-Cli+Less+Vant+Mock.js
+
+## 示例图片：
+![image](https://github.com/ngyixuan/project-vue3-ts-bilibili/blob/main/sample/index.png)
